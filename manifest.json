@@ -3,7 +3,8 @@
   "forgeVersion": "1.20.1",
   "mods": [
     {
-      "name": "iris-core.jar",
+      "name": "iris-1.0.0.jar",
+      "url": "mods/iris-1.0.0.jar",
       "required": true
     }
   ]
