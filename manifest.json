@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "forgeVersion": "1.20.1",
+  "mods": [
+    {
+      "name": "iris-core.jar",
+      "required": true
+    }
+  ]
+}
