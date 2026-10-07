@@ -621,13 +621,17 @@
           }
         },
         {
-          "id": "iris.mods:forgematica-0-1-13-mc1-20-1:8def10203e22",
+          "id": "iris.mods:forgematica:8def10203e22",
           "name": "Forgematica-0.1.13-mc1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 997501,
             "MD5": "8def10203e22c87e5820ecf2efd14184",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/Forgematica-0.1.13-mc1.20.1.jar"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -781,13 +785,17 @@
           }
         },
         {
-          "id": "iris.mods:oculus-mc1-20-1-1-8-0:1dd891634ac2",
+          "id": "iris.mods:oculus:1dd891634ac2",
           "name": "oculus-mc1.20.1-1.8.0",
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
             "MD5": "1dd891634ac21591b5a692471f112572",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/oculus-mc1.20.1-1.8.0.jar"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
