@@ -1,0 +1,8 @@
+BIBLIOTHÈQUE AUDIO DE L'OPALE
+
+Placez uniquement des fichiers .ogg dans :
+- faux_echo : sons sélectionnables avec la capacité Faux Écho
+- morphee   : fragments sonores utilisés aléatoirement par Morphée
+
+Les mêmes fichiers doivent être distribués à tous les joueurs par le launcher Iris.
+Après avoir ajouté ou retiré des sons, ouvrez le menu de Faux Écho puis cliquez sur Actualiser.

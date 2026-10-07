@@ -980,6 +980,28 @@
           }
         },
         {
+          "id": "iris.file.resourcepacks-iris-opale-audio-assets-iris-sounds.55743877f3ff",
+          "name": "Iris_Opale_Audio/assets/iris/sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 5,
+            "MD5": "55743877f3ffd5fc834e97bc43a6e7bd",
+            "path": "resourcepacks/Iris_Opale_Audio/assets/iris/sounds.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/resourcepacks/Iris_Opale_Audio/assets/iris/sounds.json"
+          }
+        },
+        {
+          "id": "iris.file.resourcepacks-iris-opale-audio-pack.da519c6e7228",
+          "name": "Iris_Opale_Audio/pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 105,
+            "MD5": "da519c6e72286d9f5eebfa954d70e42d",
+            "path": "resourcepacks/Iris_Opale_Audio/pack.mcmeta",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/resourcepacks/Iris_Opale_Audio/pack.mcmeta"
+          }
+        },
+        {
           "id": "iris.file.shaderpacks-complementaryreimagined-r5-9-3.54cd249cd1e9",
           "name": "ComplementaryReimagined_r5.9.3.zip",
           "type": "File",
@@ -1010,6 +1032,952 @@
             "MD5": "d36bc5f1bb91d51506e7e1b167eaee44",
             "path": "shaderpacks/miniature-shader-2.19.zip",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/shaderpacks/miniature-shader-2.19.zip"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-bruit-de-monstre-2.dbc8e0aa1916",
+          "name": "opale/audio/faux_echo/bruit de monstre 2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 197416,
+            "MD5": "dbc8e0aa1916858ac100d662a83a223e",
+            "path": "iris/opale/audio/faux_echo/bruit de monstre 2.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/bruit%20de%20monstre%202.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-bruit-de-monstre-dans-leau-1.1655dda261fe",
+          "name": "opale/audio/faux_echo/Bruit de monstre dans leau 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 71077,
+            "MD5": "1655dda261fe849a51b5db813c2dc4f9",
+            "path": "iris/opale/audio/faux_echo/Bruit de monstre dans leau 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/Bruit%20de%20monstre%20dans%20leau%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-enfant-qui-pleure-1.4ab48d209036",
+          "name": "opale/audio/faux_echo/enfant qui pleure 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 56519,
+            "MD5": "4ab48d2090367c35e5dda529732c9487",
+            "path": "iris/opale/audio/faux_echo/enfant qui pleure 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/enfant%20qui%20pleure%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-explosion-1.7a495a395449",
+          "name": "opale/audio/faux_echo/explosion 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 63664,
+            "MD5": "7a495a395449ffa75c343bd1af97aecd",
+            "path": "iris/opale/audio/faux_echo/explosion 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/explosion%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-explosion-eau-2.1535cc8041bf",
+          "name": "opale/audio/faux_echo/explosion eau 2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 64226,
+            "MD5": "1535cc8041bfade3ed83b48bed3b5479",
+            "path": "iris/opale/audio/faux_echo/explosion eau 2.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/explosion%20eau%202.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-murmure-peur-1.62de363cc012",
+          "name": "opale/audio/faux_echo/murmure peur 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 49886,
+            "MD5": "62de363cc012088c57bd82705399a40f",
+            "path": "iris/opale/audio/faux_echo/murmure peur 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/murmure%20peur%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-pleure-de-chien-3.f8a0e66b294a",
+          "name": "opale/audio/faux_echo/pleure de chien 3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 157610,
+            "MD5": "f8a0e66b294a95f8c609d313018c6853",
+            "path": "iris/opale/audio/faux_echo/pleure de chien 3.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/pleure%20de%20chien%203.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-pleure-de-femme-2.e2b6c90ba302",
+          "name": "opale/audio/faux_echo/pleure de femme 2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 132267,
+            "MD5": "e2b6c90ba3020c576e7814c4e5b26f0e",
+            "path": "iris/opale/audio/faux_echo/pleure de femme 2.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/pleure%20de%20femme%202.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-pleure-de-femme-4.d26ae541113d",
+          "name": "opale/audio/faux_echo/pleure de femme 4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 313499,
+            "MD5": "d26ae541113d4b689a46702b8ba6da19",
+            "path": "iris/opale/audio/faux_echo/pleure de femme 4.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/pleure%20de%20femme%204.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-faux-echo-rire-denfant-1.f8171a214806",
+          "name": "opale/audio/faux_echo/rire denfant 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 94683,
+            "MD5": "f8171a214806fdd8ccf949f3860e9ad4",
+            "path": "iris/opale/audio/faux_echo/rire denfant 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/faux_echo/rire%20denfant%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-lisez-moi.ccf87268e9bb",
+          "name": "opale/audio/LISEZ-MOI.txt",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "MD5": "ccf87268e9bb46b1076bd4436297d0ee",
+            "path": "iris/opale/audio/LISEZ-MOI.txt",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/LISEZ-MOI.txt"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-bruit-de-monstre-2.dbc8e0aa1916",
+          "name": "opale/audio/morphee/bruit de monstre 2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 197416,
+            "MD5": "dbc8e0aa1916858ac100d662a83a223e",
+            "path": "iris/opale/audio/morphee/bruit de monstre 2.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/bruit%20de%20monstre%202.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-bruit-de-monstre-dans-leau-1.1655dda261fe",
+          "name": "opale/audio/morphee/Bruit de monstre dans leau 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 71077,
+            "MD5": "1655dda261fe849a51b5db813c2dc4f9",
+            "path": "iris/opale/audio/morphee/Bruit de monstre dans leau 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/Bruit%20de%20monstre%20dans%20leau%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-enfant-qui-pleure-1.4ab48d209036",
+          "name": "opale/audio/morphee/enfant qui pleure 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 56519,
+            "MD5": "4ab48d2090367c35e5dda529732c9487",
+            "path": "iris/opale/audio/morphee/enfant qui pleure 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/enfant%20qui%20pleure%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-explosion-1.7a495a395449",
+          "name": "opale/audio/morphee/explosion 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 63664,
+            "MD5": "7a495a395449ffa75c343bd1af97aecd",
+            "path": "iris/opale/audio/morphee/explosion 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/explosion%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-explosion-eau-2.1535cc8041bf",
+          "name": "opale/audio/morphee/explosion eau 2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 64226,
+            "MD5": "1535cc8041bfade3ed83b48bed3b5479",
+            "path": "iris/opale/audio/morphee/explosion eau 2.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/explosion%20eau%202.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-murmure-peur-1.62de363cc012",
+          "name": "opale/audio/morphee/murmure peur 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 49886,
+            "MD5": "62de363cc012088c57bd82705399a40f",
+            "path": "iris/opale/audio/morphee/murmure peur 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/murmure%20peur%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-pleure-de-chien-3.f8a0e66b294a",
+          "name": "opale/audio/morphee/pleure de chien 3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 157610,
+            "MD5": "f8a0e66b294a95f8c609d313018c6853",
+            "path": "iris/opale/audio/morphee/pleure de chien 3.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/pleure%20de%20chien%203.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-pleure-de-femme-2.e2b6c90ba302",
+          "name": "opale/audio/morphee/pleure de femme 2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 132267,
+            "MD5": "e2b6c90ba3020c576e7814c4e5b26f0e",
+            "path": "iris/opale/audio/morphee/pleure de femme 2.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/pleure%20de%20femme%202.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-pleure-de-femme-4.d26ae541113d",
+          "name": "opale/audio/morphee/pleure de femme 4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 313499,
+            "MD5": "d26ae541113d4b689a46702b8ba6da19",
+            "path": "iris/opale/audio/morphee/pleure de femme 4.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/pleure%20de%20femme%204.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-opale-audio-morphee-rire-denfant-1.f8171a214806",
+          "name": "opale/audio/morphee/rire denfant 1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 94683,
+            "MD5": "f8171a214806fdd8ccf949f3860e9ad4",
+            "path": "iris/opale/audio/morphee/rire denfant 1.ogg",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/iris/opale/audio/morphee/rire%20denfant%201.ogg"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-accessories.18d2065349ca",
+          "name": "config/accessories.json5",
+          "type": "File",
+          "artifact": {
+            "size": 745,
+            "MD5": "18d2065349cab84e6afb148f78846953",
+            "path": "_iris_defaults/config/accessories.json5",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/accessories.json5"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-alltheleaks.91593a9caad6",
+          "name": "config/alltheleaks.json",
+          "type": "File",
+          "artifact": {
+            "size": 278,
+            "MD5": "91593a9caad6659202fd5ac924a68097",
+            "path": "_iris_defaults/config/alltheleaks.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/alltheleaks.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-armourers-workshop-client.178b49e20a5e",
+          "name": "config/armourers_workshop-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4867,
+            "MD5": "178b49e20a5e5397678fdb80b71df3a9",
+            "path": "_iris_defaults/config/armourers_workshop-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/armourers_workshop-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-armourers-workshop-common.454cf8ed536a",
+          "name": "config/armourers_workshop-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4211,
+            "MD5": "454cf8ed536aa9699b3c2c4ac7d167d8",
+            "path": "_iris_defaults/config/armourers_workshop-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/armourers_workshop-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-beachparty.5facfb2fb3fb",
+          "name": "config/beachparty.toml",
+          "type": "File",
+          "artifact": {
+            "size": 394,
+            "MD5": "5facfb2fb3fb32c83ba867bc867fbbb3",
+            "path": "_iris_defaults/config/beachparty.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/beachparty.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-create-client.d276f313790d",
+          "name": "config/create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4397,
+            "MD5": "d276f313790d54d07df0fbb1916f6350",
+            "path": "_iris_defaults/config/create-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/create-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-create-common.7503e1571dd1",
+          "name": "config/create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "MD5": "7503e1571dd136604d3a78582d1a6cb0",
+            "path": "_iris_defaults/config/create-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/create-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-croptopia-croptopia-v3.38415c0fb821",
+          "name": "config/croptopia/croptopia_v3.conf",
+          "type": "File",
+          "artifact": {
+            "size": 13630,
+            "MD5": "38415c0fb8215562510437175ec33986",
+            "path": "_iris_defaults/config/croptopia/croptopia_v3.conf",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/croptopia/croptopia_v3.conf"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-curios-client.67aaec181483",
+          "name": "config/curios-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 706,
+            "MD5": "67aaec1814836fed2d3e021c29ef6848",
+            "path": "_iris_defaults/config/curios-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/curios-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-curios-common.4e1978c60382",
+          "name": "config/curios-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "MD5": "4e1978c603823135e91f736983a96649",
+            "path": "_iris_defaults/config/curios-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/curios-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-embeddium-fingerprint.11a0ee098102",
+          "name": "config/embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "MD5": "11a0ee098102236f0f0891228387bb38",
+            "path": "_iris_defaults/config/embeddium-fingerprint.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-embeddium-mixins.a9176524f816",
+          "name": "config/embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "path": "_iris_defaults/config/embeddium-mixins.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-embeddium-options.c0a96a9199ec",
+          "name": "config/embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 852,
+            "MD5": "c0a96a9199ece4278654cf6e1fb2584c",
+            "path": "_iris_defaults/config/embeddium-options.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-emotecraft.69f239dffd22",
+          "name": "config/emotecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 647,
+            "MD5": "69f239dffd22a7ad53e6bbc3da08f50d",
+            "path": "_iris_defaults/config/emotecraft.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/emotecraft.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-emotecraft-emote-map.fdcffe9e7eaa",
+          "name": "config/emotecraft_emote_map.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "MD5": "fdcffe9e7eaa4949ee1d33d613a7c2eb",
+            "path": "_iris_defaults/config/emotecraft_emote_map.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/emotecraft_emote_map.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-entityculling.4b613a5aed83",
+          "name": "config/entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 2248,
+            "MD5": "4b613a5aed83e0410c9d37c77b480d6a",
+            "path": "_iris_defaults/config/entityculling.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/entityculling.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-entity-texture-features.4e6ad77b5984",
+          "name": "config/entity_texture_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1452,
+            "MD5": "4e6ad77b59844f52be1d49be34ff884f",
+            "path": "_iris_defaults/config/entity_texture_features.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-etf-warnings.b49b5603d2df",
+          "name": "config/etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "_iris_defaults/config/etf_warnings.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-ferritecore-mixin.ab9006eb6d50",
+          "name": "config/ferritecore-mixin.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1516,
+            "MD5": "ab9006eb6d50292a11f757c0ae658ac0",
+            "path": "_iris_defaults/config/ferritecore-mixin.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/ferritecore-mixin.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-flywheel-client.b02a7238689e",
+          "name": "config/flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "MD5": "b02a7238689e44033dc34adc1debc008",
+            "path": "_iris_defaults/config/flywheel-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/flywheel-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-fml.783d5f5e55fc",
+          "name": "config/fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1148,
+            "MD5": "783d5f5e55fc91951e5e234d72980761",
+            "path": "_iris_defaults/config/fml.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/fml.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-forge-client.94d0dcbf248b",
+          "name": "config/forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1628,
+            "MD5": "94d0dcbf248b1ee18bf1266c672327a1",
+            "path": "_iris_defaults/config/forge-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/forge-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-framedblocks-client.dcbd55216083",
+          "name": "config/framedblocks-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5520,
+            "MD5": "dcbd5521608370ab59407cbaa6643689",
+            "path": "_iris_defaults/config/framedblocks-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/framedblocks-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-framedblocks-common.59f5b2c49335",
+          "name": "config/framedblocks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "MD5": "59f5b2c49335c3e38fc73a45f04d7a1a",
+            "path": "_iris_defaults/config/framedblocks-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/framedblocks-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-immediatelyfast.7b2d05a9b2f2",
+          "name": "config/immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1060,
+            "MD5": "7b2d05a9b2f2745055edf3c8d1d0b155",
+            "path": "_iris_defaults/config/immediatelyfast.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-immersive-furniture.553b0a774adb",
+          "name": "config/immersive_furniture.json",
+          "type": "File",
+          "artifact": {
+            "size": 381,
+            "MD5": "553b0a774adb40105184ea567e76d5ee",
+            "path": "_iris_defaults/config/immersive_furniture.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/immersive_furniture.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-medicalmod-common.c07cdaccc1b1",
+          "name": "config/medicalmod-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 762,
+            "MD5": "c07cdaccc1b16ef146b6be0046f1796d",
+            "path": "_iris_defaults/config/medicalmod-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/medicalmod-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-memorysweep.d2bf25c30404",
+          "name": "config/memorysweep.json",
+          "type": "File",
+          "artifact": {
+            "size": 456,
+            "MD5": "d2bf25c30404b443dc143c43c0c97060",
+            "path": "_iris_defaults/config/memorysweep.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/memorysweep.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-modernfix-common.1d50de2e9c0b",
+          "name": "config/modernfix-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "MD5": "1d50de2e9c0bda2952844de7a3306d10",
+            "path": "_iris_defaults/config/modernfix-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/modernfix-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-modernfix-mixins.e45e143ab517",
+          "name": "config/modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 6643,
+            "MD5": "e45e143ab517790502cbb3c9e3ce3d72",
+            "path": "_iris_defaults/config/modernfix-mixins.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-moonlight-client.12be1e89e835",
+          "name": "config/moonlight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1027,
+            "MD5": "12be1e89e835cca57c9017fa96f2d7e0",
+            "path": "_iris_defaults/config/moonlight-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/moonlight-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-moonlight-common.00729a29d2b2",
+          "name": "config/moonlight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1023,
+            "MD5": "00729a29d2b24292a06e174c24a3a831",
+            "path": "_iris_defaults/config/moonlight-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/moonlight-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-oculus.7c02d2876a76",
+          "name": "config/oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "MD5": "7c02d2876a76c0d506d5ddda8a4c77db",
+            "path": "_iris_defaults/config/oculus.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/oculus.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-packetfixer.f1a38ed46bac",
+          "name": "config/packetfixer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 489,
+            "MD5": "f1a38ed46bacb763c6cad26b857dc1bf",
+            "path": "_iris_defaults/config/packetfixer.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/packetfixer.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-patchouli-client.8abc03f47eb0",
+          "name": "config/patchouli-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1091,
+            "MD5": "8abc03f47eb092528e4d5bda3e2ff172",
+            "path": "_iris_defaults/config/patchouli-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/patchouli-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-cs-cz.a8dee8bf04a5",
+          "name": "config/plasmovoice/.crowdin/cs_cz.json",
+          "type": "File",
+          "artifact": {
+            "size": 8788,
+            "MD5": "a8dee8bf04a556620cc2541c1501b3b3",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/cs_cz.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/cs_cz.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-de-de.cb8838ceada0",
+          "name": "config/plasmovoice/.crowdin/de_de.json",
+          "type": "File",
+          "artifact": {
+            "size": 8510,
+            "MD5": "cb8838ceada0cc1ac72d33c3359eb883",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/de_de.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/de_de.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-es-es.ebe33e9b2d8f",
+          "name": "config/plasmovoice/.crowdin/es_es.json",
+          "type": "File",
+          "artifact": {
+            "size": 9115,
+            "MD5": "ebe33e9b2d8f8f2d4519edb2e4394e40",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/es_es.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/es_es.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-fr-fr.f3a517b45d69",
+          "name": "config/plasmovoice/.crowdin/fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9154,
+            "MD5": "f3a517b45d6920f327020408fd9751fd",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/fr_fr.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/fr_fr.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-he-il.2f2e21189a6f",
+          "name": "config/plasmovoice/.crowdin/he_il.json",
+          "type": "File",
+          "artifact": {
+            "size": 9290,
+            "MD5": "2f2e21189a6f11d39a33b7b66a111b5c",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/he_il.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/he_il.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-ja-jp.5ccf0895426e",
+          "name": "config/plasmovoice/.crowdin/ja_jp.json",
+          "type": "File",
+          "artifact": {
+            "size": 9467,
+            "MD5": "5ccf0895426e7fca281ca28d13dccc31",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/ja_jp.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/ja_jp.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-ko-kr.ab87eb710206",
+          "name": "config/plasmovoice/.crowdin/ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9208,
+            "MD5": "ab87eb710206cd3eef9e1ba03f88bd57",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/ko_kr.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/ko_kr.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-pl-pl.6a09569fa006",
+          "name": "config/plasmovoice/.crowdin/pl_pl.json",
+          "type": "File",
+          "artifact": {
+            "size": 8890,
+            "MD5": "6a09569fa006d3f01bc00333838df100",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/pl_pl.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/pl_pl.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-pt-br.97bd0d3f6c28",
+          "name": "config/plasmovoice/.crowdin/pt_br.json",
+          "type": "File",
+          "artifact": {
+            "size": 9046,
+            "MD5": "97bd0d3f6c281f960cf448c4346563fc",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/pt_br.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/pt_br.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-ru-ru.9c3a8c7dc0eb",
+          "name": "config/plasmovoice/.crowdin/ru_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 11446,
+            "MD5": "9c3a8c7dc0eb3a6640847988b139fb00",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/ru_ru.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/ru_ru.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-sr-sp.282b43f1eb31",
+          "name": "config/plasmovoice/.crowdin/sr_sp.json",
+          "type": "File",
+          "artifact": {
+            "size": 11464,
+            "MD5": "282b43f1eb31530195afa47b888005f3",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/sr_sp.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/sr_sp.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice.cfecd81b7127",
+          "name": "config/plasmovoice/.crowdin/timestamp",
+          "type": "File",
+          "artifact": {
+            "size": 13,
+            "MD5": "cfecd81b7127d96b6eb9d0dfcc0411f2",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/timestamp",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/timestamp"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-tr-tr.9eb2a3be4750",
+          "name": "config/plasmovoice/.crowdin/tr_tr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1545,
+            "MD5": "9eb2a3be47503ed7b7065e4c3f2413bc",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/tr_tr.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/tr_tr.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-tt-ru.6f8f48b6ce5e",
+          "name": "config/plasmovoice/.crowdin/tt_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 11312,
+            "MD5": "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/tt_ru.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/tt_ru.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-uk-ua.a68060377351",
+          "name": "config/plasmovoice/.crowdin/uk_ua.json",
+          "type": "File",
+          "artifact": {
+            "size": 10828,
+            "MD5": "a68060377351fcfdbf5c0af87330e6c7",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/uk_ua.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/uk_ua.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-vi-vn.0458e0a83010",
+          "name": "config/plasmovoice/.crowdin/vi_vn.json",
+          "type": "File",
+          "artifact": {
+            "size": 10102,
+            "MD5": "0458e0a83010b7648fec3488e7dd2341",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/vi_vn.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/vi_vn.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-zh-cn.6a385d12b888",
+          "name": "config/plasmovoice/.crowdin/zh_cn.json",
+          "type": "File",
+          "artifact": {
+            "size": 8123,
+            "MD5": "6a385d12b888457adee2b62acc8e9aa6",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/zh_cn.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/zh_cn.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-crowdin-zh-tw.5afb2f116f79",
+          "name": "config/plasmovoice/.crowdin/zh_tw.json",
+          "type": "File",
+          "artifact": {
+            "size": 8119,
+            "MD5": "5afb2f116f79813891221626cbdeb096",
+            "path": "_iris_defaults/config/plasmovoice/.crowdin/zh_tw.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/.crowdin/zh_tw.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-client.2f9f75add5c1",
+          "name": "config/plasmovoice/client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1078,
+            "MD5": "2f9f75add5c183da77957fc9f00c08f7",
+            "path": "_iris_defaults/config/plasmovoice/client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-plasmovoice-meta-cache.86c3955cea2b",
+          "name": "config/plasmovoice/meta_cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 655,
+            "MD5": "86c3955cea2bac5aee9aca14ff9b73df",
+            "path": "_iris_defaults/config/plasmovoice/meta_cache.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/plasmovoice/meta_cache.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-ponder-client.e923797057f2",
+          "name": "config/ponder-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "MD5": "e923797057f201aaabb470187e768971",
+            "path": "_iris_defaults/config/ponder-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/ponder-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-scholar-client.401ca637c8ae",
+          "name": "config/scholar-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 862,
+            "MD5": "401ca637c8aebc851b96c29e6b9e41e0",
+            "path": "_iris_defaults/config/scholar-client.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/scholar-client.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-scholar-common.51b5a9d8640d",
+          "name": "config/scholar-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2773,
+            "MD5": "51b5a9d8640db0de84a9cb5e35af4a84",
+            "path": "_iris_defaults/config/scholar-common.toml",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/scholar-common.toml"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-sound-physics-remastered-occlusion.65630e0f0122",
+          "name": "config/sound_physics_remastered/occlusion.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4831,
+            "MD5": "65630e0f012205fc8b074e2f90ff89c2",
+            "path": "_iris_defaults/config/sound_physics_remastered/occlusion.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/sound_physics_remastered/occlusion.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-sound-physics-remastered-reflectivity.a96fdc43367f",
+          "name": "config/sound_physics_remastered/reflectivity.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4713,
+            "MD5": "a96fdc43367fe049dff56acbf204a79d",
+            "path": "_iris_defaults/config/sound_physics_remastered/reflectivity.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/sound_physics_remastered/reflectivity.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-sound-physics-remastered-soundphysics.1f6041a6026f",
+          "name": "config/sound_physics_remastered/soundphysics.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5104,
+            "MD5": "1f6041a6026f08f1d6088437da611263",
+            "path": "_iris_defaults/config/sound_physics_remastered/soundphysics.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/sound_physics_remastered/soundphysics.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-sound-physics-remastered-sound-rates.a4c7ccf650df",
+          "name": "config/sound_physics_remastered/sound_rates.properties",
+          "type": "File",
+          "artifact": {
+            "size": 62687,
+            "MD5": "a4c7ccf650df7f6036359c721ae05115",
+            "path": "_iris_defaults/config/sound_physics_remastered/sound_rates.properties",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/sound_physics_remastered/sound_rates.properties"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-transition.31ba5caa4bcc",
+          "name": "config/transition.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "MD5": "31ba5caa4bcc56c2527e5d001e4f0f07",
+            "path": "_iris_defaults/config/transition.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/transition.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-config-trender.57d19d218711",
+          "name": "config/trender.json",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
+            "path": "_iris_defaults/config/trender.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/config/trender.json"
+          }
+        },
+        {
+          "id": "iris.file.iris-defaults-options.51bb9d960fd9",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4937,
+            "MD5": "51bb9d960fd9827039351f878532a144",
+            "path": "_iris_defaults/options.txt",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/defaults/options.txt"
           }
         }
       ]

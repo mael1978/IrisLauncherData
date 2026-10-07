@@ -1,0 +1,18 @@
+
+#Medical Mod Configuration
+[general]
+	#車両を無敵にする (true = ダメージを受けない)
+	vehicleInvincible = false
+	#病気システムを有効にする (false = 新規感染しない)
+	diseaseEnabled = true
+	#病気の進行速度の倍率 (0.5 = 半分の速度, 2.0 = 2倍速, 40.0 = 40倍速)
+	#Range: 0.1 ~ 40.0
+	diseaseProgressionSpeed = 1.0
+	#病気死亡時のペナルティ(朦朧・くさい)を有効にする
+	deathPenaltyEnabled = true
+	#同時に感染できる病気の最大数 (クローン病等の例外は含まない)
+	#Range: 1 ~ 10
+	maxSimultaneousDiseases = 2
+	#EZモード: ONにするとMOD初適用から現実時間72時間は病気にかからない (サバイバルモードのみ)
+	ezMode = true
+
