@@ -491,6 +491,16 @@
           }
         },
         {
+          "id": "iris.mods:camera-forge-1-20-1-1-0-20:7f707898d1ed",
+          "name": "camera-forge-1.20.1-1.0.20",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299726,
+            "MD5": "7f707898d1ed0753a5a5043cbdf806a8",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/camera-forge-1.20.1-1.0.20.jar"
+          }
+        },
+        {
           "id": "iris.mods:chipped-forge-1-20-1-3-0-7:c6c76e78805b",
           "name": "chipped-forge-1.20.1-3.0.7",
           "type": "ForgeMod",
@@ -695,6 +705,16 @@
           }
         },
         {
+          "id": "iris.mods:iris-1-0-0-2:38b65ebd1d56",
+          "name": "iris-1.0.0 (2)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4313572,
+            "MD5": "38b65ebd1d5617cad1307a109df94027",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/iris-1.0.0%20(2).jar"
+          }
+        },
+        {
           "id": "iris.mods:iris-1-0-0:04e7fe362ef0",
           "name": "iris-1.0.0",
           "type": "ForgeMod",
@@ -702,6 +722,26 @@
             "size": 4267593,
             "MD5": "04e7fe362ef0ba594e6890e658552bf2",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/iris-1.0.0.jar"
+          }
+        },
+        {
+          "id": "iris.mods:irisessentials-0-17-13-e17n:2cfeee264dfa",
+          "name": "irisessentials-0.17.13-E17N",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1701605,
+            "MD5": "2cfeee264dfaf15d34c1eb8be46b8ff2",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/irisessentials-0.17.13-E17N.jar"
+          }
+        },
+        {
+          "id": "iris.mods:iris-tools-1-0-0-alpha-1:a38070689c9a",
+          "name": "iris_tools-1.0.0-alpha.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 786854,
+            "MD5": "a38070689c9a6ce1b5c50cba919e6fe9",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/iris_tools-1.0.0-alpha.1.jar"
           }
         },
         {
