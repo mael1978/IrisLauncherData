@@ -715,16 +715,6 @@
           }
         },
         {
-          "id": "iris.mods:iris-1-0-0:04e7fe362ef0",
-          "name": "iris-1.0.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4267593,
-            "MD5": "04e7fe362ef0ba594e6890e658552bf2",
-            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/iris-1.0.0.jar"
-          }
-        },
-        {
           "id": "iris.mods:irisessentials-0-17-13-e17n:2cfeee264dfa",
           "name": "irisessentials-0.17.13-E17N",
           "type": "ForgeMod",
@@ -946,6 +936,16 @@
             "size": 1325424,
             "MD5": "3bc41cda5fadc93aa1c32fa42d0c81db",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/selfexpression_slim-1.5-forge-1.20.1.jar"
+          }
+        },
+        {
+          "id": "iris.mods:simplehats-forge-1-20-1-0-3-2:5617686a811a",
+          "name": "simplehats-forge-1.20.1-0.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1413531,
+            "MD5": "5617686a811a3c1f6523166b7af7f0a8",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/simplehats-forge-1.20.1-0.3.2.jar"
           }
         },
         {
