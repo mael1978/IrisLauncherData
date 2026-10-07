@@ -21,7 +21,7 @@
         "largeImageKey": "iris"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "javaOptions": {
         "supported": ">=17.x <22.x",
         "suggestedMajor": 17,
