@@ -715,12 +715,12 @@
           }
         },
         {
-          "id": "iris.mods:irisessentials-0-17-13-e17n:2cfeee264dfa",
+          "id": "iris.mods:irisessentials-0-17-13-e17n:ba60b7c3ae80",
           "name": "irisessentials-0.17.13-E17N",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1701605,
-            "MD5": "2cfeee264dfaf15d34c1eb8be46b8ff2",
+            "size": 1704196,
+            "MD5": "ba60b7c3ae80dacc6cd63bc2845382db",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/irisessentials-0.17.13-E17N.jar"
           }
         },
