@@ -1266,6 +1266,17 @@
           }
         },
         {
+          "id": "iris.file.iris-iris-lock.add6b552c06f",
+          "name": "iris-lock.json",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "add6b552c06f1dcef98abfd00c0dd252",
+            "path": "_iris/iris-lock.json",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/system/iris-lock.json"
+          }
+        },
+        {
           "id": "iris.file.iris-defaults-config-accessories.18d2065349ca",
           "name": "config/accessories.json5",
           "type": "File",

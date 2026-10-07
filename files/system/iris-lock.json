@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "lockClientMods": true,
+  "lockResourcePacks": true,
+  "resourcePackPriority": [
+    "Alacrity.zip",
+    "Iris_Opale_Audio"
+  ]
+}
