@@ -705,12 +705,12 @@
           }
         },
         {
-          "id": "iris.mods:iris-1-0-0:49a43a97d451",
+          "id": "iris.mods:iris-1-0-0:7352df232ee2",
           "name": "iris-1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5421833,
-            "MD5": "49a43a97d451d67d93966f8fa39d47e8",
+            "size": 5467882,
+            "MD5": "7352df232ee28c14594a5550268e1e34",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/iris-1.0.0.jar"
           }
         },
@@ -1017,6 +1017,17 @@
             "MD5": "a23cd328412061172dd87150606320c1",
             "path": "resourcepacks/Alacrity.zip",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/resourcepacks/Alacrity.zip"
+          }
+        },
+        {
+          "id": "iris.file.resourcepacks-emotebend-freshface.8079498c5a96",
+          "name": "EmoteBend(FreshFace).zip",
+          "type": "File",
+          "artifact": {
+            "size": 87806,
+            "MD5": "8079498c5a96fb2a65c93bdee304a8d4",
+            "path": "resourcepacks/EmoteBend(FreshFace).zip",
+            "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/resourcepacks/EmoteBend(FreshFace).zip"
           }
         },
         {
