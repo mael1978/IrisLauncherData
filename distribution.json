@@ -705,12 +705,12 @@
           }
         },
         {
-          "id": "iris.mods:iris-1-0-0:bc2d60bfad02",
+          "id": "iris.mods:iris-1-0-0:484e521618ab",
           "name": "iris-1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27197517,
-            "MD5": "bc2d60bfad02e1b0b34cb28cf6a43252",
+            "size": 36238519,
+            "MD5": "484e521618ab8c46782fc3387257f5cf",
             "url": "https://raw.githubusercontent.com/mael1978/IrisLauncherData/main/files/mods/iris-1.0.0.jar"
           }
         },
